@@ -1,1 +1,30 @@
-/* write your override styles here */
+#wall .tag-2 {
+    display: none;
+position: relative;
+padding: auto;
+
+}
+
+
+#wall .tag-5 {
+    display: none;
+position: relative;
+padding: auto;
+  
+}
+  /* write your override styles here */
+
+  #wall .tag-1 {
+    display: none;
+position: relative;
+padding: auto;
+  
+
+  }
+  .slick #tag-7{
+
+    display: none;
+    position: relative;
+    padding: auto;
+
+  }
